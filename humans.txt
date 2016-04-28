@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	grebett (Grégory Betton)
+
+# THANKS
+
+	For the recommandation, Maître Landais, Pierre-Rudolf Gerlach, Florian Pernot, and the blablacar's users
+
+# TECHNOLOGY COLOPHON
+
+	HTML5, CSS3
+	jQuery, Modernizr, Materialize
