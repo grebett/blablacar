@@ -29,7 +29,7 @@
 			console.log(ctx);
 		});
 
-		page('*', () => {
+		page('*', function () {
 			page.redirect('/blablacar/about');
 		});
 
