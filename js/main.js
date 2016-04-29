@@ -34,7 +34,7 @@
 		});
 
 		page({
-			hashbang: true
+			hashbang: false
 		});
 	});
 })(jQuery);
