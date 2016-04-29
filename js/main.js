@@ -1,5 +1,10 @@
 (function ($) {
 	window.addEventListener('DOMContentLoaded', function (event) {
+		page('*', function (ctx, next) {
+			window.scroll(0, 0);
+			next();
+		});
+
 		page('/about', function (ctx) {
 			$('.page').css({display:'none'});
 			$('#about').css({display:'block'});

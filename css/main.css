@@ -120,11 +120,12 @@ section {
 	width: auto;
 }
 
-.value p.middle-centered {
+#values-container p.middle-centered {
 	display: table-cell;
 	vertical-align: middle;
 	padding: 10px;
 	height: 370px;
+	padding-right: 70px;
 }
 
 /* techs */
